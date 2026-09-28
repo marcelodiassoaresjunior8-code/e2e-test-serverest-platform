@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","2302","Should successfully log in with valid credentials","E2E - Login Suite (ServeRest)","2026-09-28","passed","2026-09-28","","","",""
-"","1966","Should clear all items from the shopping list successfully","E2E - Shopping List Suite (ServeRest)","2026-09-28","passed","2026-09-28","","","",""
-"","2427","Should search for a product, add it to the shopping list and verify redirection","E2E - Shopping List Suite (ServeRest)","2026-09-28","passed","2026-09-28","","","",""
+"","3188","Should successfully log in with valid credentials","E2E - Login Suite (ServeRest)","2026-09-28","passed","2026-09-28","","","",""
+"","4559","Should clear all items from the shopping list successfully","E2E - Shopping List Suite (ServeRest)","2026-09-28","passed","2026-09-28","","","",""
+"","5391","Should search for a product, add it to the shopping list and verify redirection","E2E - Shopping List Suite (ServeRest)","2026-09-28","passed","2026-09-28","","","",""
